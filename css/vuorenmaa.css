@@ -1,5 +1,9 @@
 /* Marko Vuorenmaa */
 
+.napit {
+	margin-top: 5em;
+}
+
 .progress {
     background-color: #4890c3;
     height: 1.8rem;
